@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://bandcamp.com'
-  name: BandCamp
-  favicon: 'https://f1.bcbits.com/img/a0001916432_3.jpg'
-  domain: shiftingwaves.bandcamp.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://shiftingwaves.bandcamp.com/album/a-new-earth-ep'
+inLanguage: en
+starred: false
 keywords:
   - composed
   - high-quality
@@ -18,17 +17,20 @@ keywords:
   - feeds
   - tribulations
 description: "A New Earth EP by Margaret Harmer, released 28 December 2015 1. A New Earth This is a one track EP to celebrate the year 2015. Inspired by Eckhart Tolle's book A New Earth while composing this piece, I felt gratitude for all the human and divine help on my journey through tribulations."
-inLanguage: en
+datePublished: '2016-03-05T19:21:18.145Z'
+dateModified: '2016-03-05T19:21:12.900Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://shiftingwaves.bandcamp.com/album/a-new-earth-ep'
 title: 'A New Earth EP, by Margaret Harmer'
-datePublished: '2016-03-05T19:20:47.284Z'
-dateModified: '2016-03-05T19:19:00.521Z'
 sourcePath: _posts/2016-03-05-a-new-earth-ep-by-margaret-harmer.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: BandCamp
+  domain: shiftingwaves.bandcamp.com
+  url: 'http://bandcamp.com'
+  favicon: 'https://f1.bcbits.com/img/a0001916432_3.jpg'
 _context: 'http://schema.org'
 _type: MediaObject
 
