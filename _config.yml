@@ -1,0 +1,28 @@
+name: margaretharmer
+favicon: null
+layout_spectrum: 0.26451491843909025
+typography_spectrum: 0.5022124797105789
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7243932071141899
+  lightness: 0.7447803602553904
+  saturation: 0.3153883733320981
+  rhythmicContrast: 0.21787323500029743
+purpose: []
