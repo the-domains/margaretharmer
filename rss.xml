@@ -4,8 +4,15 @@
         <description><![CDATA[Artist]]></description>
         <link>https://thegrid.ai/margaretharmer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 18:45:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 18:52:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/margaretharmer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[music]]></title>
+            <description><![CDATA[<h1>music</h1>]]></description>
+            <link>https://thegrid.ai/margaretharmer/music/index.html</link>
+            <guid isPermaLink="false">d62cc06c-d849-4968-9821-bafeaff23590</guid>
+            <pubDate>Sat, 05 Mar 2016 18:52:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Margaret Harmer]]></title>
             <description><![CDATA[<article><h1>Margaret Harmer</h1><p>music video painting sculpture production</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93d9a08badc2c499b7bad116a2d13ea36da26c6d.jpg"></article>]]></description>
