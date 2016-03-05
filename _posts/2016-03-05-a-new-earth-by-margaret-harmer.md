@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://bandcamp.com'
-  name: BandCamp
-  favicon: 'http://f1.bcbits.com/img/a0001916432_3.jpg'
-  domain: shiftingwaves.bandcamp.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://shiftingwaves.bandcamp.com/track/a-new-earth'
+inLanguage: en
+starred: false
 keywords:
   - ambient
   - drones
@@ -18,17 +17,20 @@ keywords:
   - mp3
   - music
 description: 'A New Earth by Shiftingwaves, released 28 December 2015'
-inLanguage: en
+datePublished: '2016-03-05T19:43:53.792Z'
+dateModified: '2016-03-05T19:43:44.621Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://shiftingwaves.bandcamp.com/track/a-new-earth'
 title: 'A New Earth, by Margaret Harmer'
-datePublished: '2016-03-05T19:39:26.616Z'
-dateModified: '2016-03-05T19:35:50.106Z'
 sourcePath: _posts/2016-03-05-a-new-earth-by-margaret-harmer.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: BandCamp
+  domain: shiftingwaves.bandcamp.com
+  url: 'http://bandcamp.com'
+  favicon: 'http://f1.bcbits.com/img/a0001916432_3.jpg'
 _context: 'http://schema.org'
 _type: MediaObject
 
