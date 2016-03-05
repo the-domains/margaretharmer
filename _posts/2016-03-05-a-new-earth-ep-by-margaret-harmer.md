@@ -17,8 +17,8 @@ keywords:
   - feeds
   - tribulations
 description: "A New Earth EP by Margaret Harmer, released 28 December 2015 1. A New Earth This is a one track EP to celebrate the year 2015. Inspired by Eckhart Tolle's book A New Earth while composing this piece, I felt gratitude for all the human and divine help on my journey through tribulations."
-datePublished: '2016-03-05T19:21:18.145Z'
-dateModified: '2016-03-05T19:21:12.900Z'
+datePublished: '2016-03-05T19:25:31.035Z'
+dateModified: '2016-03-05T19:25:28.395Z'
 author: []
 related: []
 app_links: []
